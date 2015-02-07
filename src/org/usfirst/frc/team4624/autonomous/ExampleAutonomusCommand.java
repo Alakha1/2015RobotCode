@@ -7,6 +7,7 @@ public class ExampleAutonomusCommand extends CommandGroup {
     /**
      * Example auto period sequence
      */
+    /*
     public ExampleAutonomusCommand() {
         addSequential( new DriveToTote() );
         addSequential( new GrabTote() );
@@ -18,4 +19,5 @@ public class ExampleAutonomusCommand extends CommandGroup {
         addSequential( new StackTote() );
         addSequential( new AlignYourself() );
     }
+    */
 }
